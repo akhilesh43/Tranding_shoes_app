@@ -144,9 +144,13 @@ Add screenshots of the following screens:
 * Home Screen
 * Product Details Screen
 * Cart Screen
+![Shoes Gallery](https://raw.githubusercontent.com/akhilesh43/Tranding_shoes_app/4f3afa096c0c4ff5ef5bf8bfefb88d7155167f97/WhatsApp%20Image%202026-03-10%20at%2011.20.10%20PM.jpeg)
 * Payment Screen
+  ## 📸 App Screenshots
+![Shoes App Screen 2](https://raw.githubusercontent.com/akhilesh43/Tranding_shoes_app/4f3afa096c0c4ff5ef5bf8bfefb88d7155167f97/WhatsApp%20Image%202026-03-10%20at%2011.20.10%20PM%20(1).jpeg)
 * Order History Screen
 * Dark Mode UI
+  ![Another View](https://raw.githubusercontent.com/akhilesh43/Tranding_shoes_app/4f3afa096c0c4ff5ef5bf8bfefb88d7155167f97/WhatsApp%20Image%202026-03-10%20at%2011.20.11%20PM.jpeg)
 
 ---
 

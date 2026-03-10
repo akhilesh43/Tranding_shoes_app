@@ -1,0 +1,1 @@
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (d:\vpn\flutter_application_14\lib\screens\profile\shipping_address_screen.dart:106:33)

@@ -138,7 +138,9 @@ flutter run
 
 Add screenshots of the following screens:
 
-![image alt]((https://github.com/akhilesh43/Tranding_shoes_app/blob/8a6be92a96ee0810f1ccb186a5a6550da7d828fe/WhatsApp%20Image%202026-03-10%20at%2011.20.09%20PM.jpeg))
+## 📱 App Screenshot
+
+![Shoes App UI](https://raw.githubusercontent.com/akhilesh43/Tranding_shoes_app/823ebf55586d52d7edf0e3c2fabd92788c8fa0f8/WhatsApp%20Image%202026-03-10%20at%2011.20.09%20PM.jpeg)
 * Home Screen
 * Product Details Screen
 * Cart Screen
